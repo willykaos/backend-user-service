@@ -87,7 +87,7 @@ http://localhost:8080/actuator/prometheus
 
 ## 🖥️ Tecnologías
 
-- Spring Boot  
+- Spring Boot  2.7.18
 - Spring Web  
 - Spring Actuator  
 - Prometheus (para monitoreo)  
