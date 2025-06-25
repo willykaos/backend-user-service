@@ -7,7 +7,7 @@ Servicio backend en **Spring Boot** para la gestión básica de usuarios. Incluy
 
 ## 🛠️ Requisitos
 
-- Java 17 o superior
+- Java 11
 - Git
 - No es necesario tener Maven instalado, se usa el wrapper (`mvnw`) incluido en el proyecto
 
